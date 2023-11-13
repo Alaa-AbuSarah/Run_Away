@@ -1,6 +1,7 @@
 # Run Away - Mobile Idle RPG
 
-![Screenshot_20231113_182100_Run away](https://github.com/Alaa-AbuSarah/Run_Away/assets/121944937/b6216ff0-caa0-4295-9281-4ebb956f2d56)  ![Screenshot_20231113_182041_Run away](https://github.com/Alaa-AbuSarah/Run_Away/assets/121944937/ea71a023-8b24-4918-875b-a32560c4ec3a)  ![Screenshot_20231113_182030_Run away](https://github.com/Alaa-AbuSarah/Run_Away/assets/121944937/eb4a26a8-245e-4d37-8cf5-f38dec757759)
+![Screenshot_20231113_182100_Run away](https://github.com/Alaa-AbuSarah/Run_Away/assets/121944937/df2c7fcd-d335-4839-a4aa-9bdd576f9d8a) ![Screenshot_20231113_182041_Run away](https://github.com/Alaa-AbuSarah/Run_Away/assets/121944937/1d689ea9-9004-40ed-bab0-e629d45bf7d0) ![Screenshot_20231113_182030_Run away](https://github.com/Alaa-AbuSarah/Run_Away/assets/121944937/c44c3d0f-688a-467f-8de9-ae27b793dd9f) ![Screenshot_20231113_182124_Run away](https://github.com/Alaa-AbuSarah/Run_Away/assets/121944937/658b6400-5021-49b1-9a0b-b2e7d77f078d)
+
 
 ## Overview
 "Run Away" is an isometric, hack 'n' slash, fast-paced mobile Idle RPG. The game features multiple enemy types, various weapon types (ranged/melee), a game economy based on coins, and a seamless loop from the main menu to gameplay to results and back to the main menu.
